@@ -1,1 +1,1 @@
-console.log("Portfólio da Juliana carregado com sucesso!");
+console.log("Portfólio de Juliana carregado com sucesso!");
